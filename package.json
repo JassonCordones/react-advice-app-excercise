@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^1.18.0",
     "node-forge": "^1.4.0",
-    "qs": "^6.15.2",
+    "qs": "^6.16.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "^0.0.0"
